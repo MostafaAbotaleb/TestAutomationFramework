@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAutomationFramework" duration-ms="39050" started-at="2020-01-04T20:51:44 EET" finished-at="2020-01-04T20:52:23 EET">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="39050" started-at="2020-01-04T20:51:44 EET" finished-at="2020-01-04T20:52:23 EET">
+      <class name="Web.TestAutomation.TestCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@39aeed2f]" name="setup" is-config="true" duration-ms="14611" started-at="2020-01-04T20:51:44 EET" finished-at="2020-01-04T20:51:58 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@39aeed2f]" name="LoginTest" duration-ms="6415" started-at="2020-01-04T20:51:59 EET" finished-at="2020-01-04T20:52:05 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@39aeed2f]" name="tearDown" is-config="true" duration-ms="927" started-at="2020-01-04T20:52:05 EET" finished-at="2020-01-04T20:52:06 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Web.TestAutomation.TestCases.TC_LoginTest_001 -->
+      <class name="Web.TestAutomation.TestCases.TC_SearchTest_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@724af044]" name="setup" is-config="true" duration-ms="12045" started-at="2020-01-04T20:52:06 EET" finished-at="2020-01-04T20:52:18 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@724af044]" name="SearchTest" duration-ms="4031" started-at="2020-01-04T20:52:18 EET" finished-at="2020-01-04T20:52:22 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@724af044]" name="tearDown" is-config="true" duration-ms="712" started-at="2020-01-04T20:52:22 EET" finished-at="2020-01-04T20:52:23 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Web.TestAutomation.TestCases.TC_SearchTest_002 -->
+    </test> <!-- Login Test -->
+  </suite> <!-- TestAutomationFramework -->
+</testng-results>

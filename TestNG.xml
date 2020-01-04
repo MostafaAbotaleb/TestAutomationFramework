@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestAutomationFramework">
+
+	<listeners>
+		<listener class-name="Web.TestAutomation.Utilities.Reporting" />
+	</listeners>
+
+	<test name="Login Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		    <class name="Web.TestAutomation.TestCases.TC_LoginTest_001" />  
+			<class name="Web.TestAutomation.TestCases.TC_SearchTest_002" />
+		</classes>
+	</test>
+
+</suite>
