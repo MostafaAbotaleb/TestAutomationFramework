@@ -1,11 +1,13 @@
 package Web.TestAutomation.TestCases;
 
+
+
 import java.io.IOException;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import Web.TestAutomation.PageObjects.ChangLanguageCurrency;
+
 import Web.TestAutomation.PageObjects.HomePage;
 
 
@@ -13,7 +15,7 @@ import Web.TestAutomation.PageObjects.HomePage;
 public class TC_LoginTest_001 extends BaseClass
 {
 	@Test
-	public void LoginTest() throws InterruptedException, IOException
+	public void LoginTest() throws IOException 
 	{
 		
 		System.out.println(driver.getTitle());

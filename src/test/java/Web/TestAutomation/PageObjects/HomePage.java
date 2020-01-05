@@ -24,8 +24,6 @@ public class HomePage
 	 @FindBy(id="identifierId")
 	 WebElement txtUsername;
 	 
-	 @FindBy(xpath="//div[@class='ZFr60d CeoRYc']")
-	 WebElement nextButton;
 	 
 	 @FindBy(name="password")
 	 WebElement txtPassword;
@@ -44,10 +42,7 @@ public class HomePage
 		 txtUsername.sendKeys(name,Keys.ENTER);
 	 }
 	 
-	// public void clickNext()
-	 //{
-		// nextButton.click(); 
-	// }
+	
 	 
 	 public void setPassword(String password)
 	 {
