@@ -27,13 +27,12 @@ public class TC_LoginTest_001 extends BaseClass
 	    hp.clickLogin();
 	    
 	    hp.setUsername(username);
-	    
-	  //  hp.clickNext();
+	    logger.info("Entered username");
 	    
 	    hp.setPassword(password);
+	    logger.info("Entered password");
 	    
-	    //hp.clickNext();
-	    
+	   
 	    if(driver.getTitle().equals("Anmelden – Google Konten"))
 		{
 			Assert.assertTrue(true);

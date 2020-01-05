@@ -15,6 +15,7 @@ public class TC_SearchTest_002 extends BaseClass
 	{
 		HomePage hp=new HomePage(driver);
 		hp.search();
+		logger.info("Entered search text");
 		
 		 if(driver.getTitle().equals("mohamed salah - Google-Suche"))
 			{
