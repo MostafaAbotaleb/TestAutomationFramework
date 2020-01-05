@@ -1,1 +1,76 @@
-#this is Test Automation Framework
+-# This is Test Automation Framework
+
+ * About the project:
+    - This is an Automation Framework for Testing
+    - Easy to add and implement any new Test Cases  
+    - Easy to repeatable
+    - Anyone Can be able to Run with different ways
+    - It is full control of the unit under test
+    - Every TC is fully isolated
+    - It is easy to detect what was expected and determine how to pinpoint the problem
+    - Maven Project
+    - Provides reporting
+    - Supports web apps on Chrome, Firefox, and IE
+    - Supports to integrate with Git (local repositories) & Github (remote repositories)
+    - Supports to integrate with Jenkins CI server
+    
+ * This project makes use of the following libraries:
+    -Selenium WebDriver
+    -TestNG
+    -Apache POI
+    -Apache commons
+    -Apache log4j
+    -ExtentReports
+
+ * How to configure the tests:
+   - Create page object class in page objects package to each page includes locators of elements and actions
+   - Create TC class in test cases package extends to Base Class
+   - Add a new test data to config.properties file in the configuration folder
+   - Add new methods in ReadConfig class in utilities package for each new data in config.properties file
+   - Add the new Test Cases in TestNG.XML file
+   
+ * How to run the test cases:
+   1- Open TestNG XML file and determine the TC to run and chose the parameters of the browser (chrome, firefox, and ie)
+   or
+   2- Open pom XML file and run as Maven test
+   or
+   3- Run Test Cases through Maven CLI
+   or
+   4- Run Test Case through run.bat
+   
+ * About the structure of the framework:
+     - 4 packages:
+            - PageObjects(Home Page+Login Page)
+            - TestCases(BaseClass+TC_LoginTest_001)
+            - TestData(to add Excel data file)
+            - Utilities(Readconfig + Reporting)
+            
+     - Configuration Folder:
+            - config.properties(to read common values)
+            
+     - Drivers:
+            - (Chrome, Firefox, and IE WebDriver)
+            
+     - log Folder:
+            - Testlog file (to get the logs of TC)
+
+     - Screenshots folder:
+            - (to get a screenshot when TC failed)
+
+     - Out-put Folder 
+            - (includes a report for TC)
+     
+     - pom.xml
+            - (includes dependencies, plugins, and running TCs)
+            
+     - run.bat
+            - (to run TCs through CLI)
+
+     - TestNG.mxl
+            - (to run the TC on diverse browsers)
+            
+ * How to get logs, reports, and Screenshots when TC failed
+     1- Open the log folder--> testlog file to get the logs of TC
+     2- Open Test-output folder--> Test-Report file to get the report of TC
+     3- Open the Screenshot folder to get any screenshots if TC fail
+     
