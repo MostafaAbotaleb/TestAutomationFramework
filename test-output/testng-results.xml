@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="TestAutomationFramework" duration-ms="32006" started-at="2020-01-04T14:11:41 EET" finished-at="2020-01-04T14:12:13 EET">
+  <suite name="TestAutomationFramework" duration-ms="22319" started-at="2020-02-07T03:25:27 EET" finished-at="2020-02-07T03:25:50 EET">
     <groups>
     </groups>
-    <test name="Login Test" duration-ms="32006" started-at="2020-01-04T14:11:41 EET" finished-at="2020-01-04T14:12:13 EET">
+    <test name="Login Test" duration-ms="22319" started-at="2020-02-07T03:25:27 EET" finished-at="2020-02-07T03:25:50 EET">
       <class name="Web.TestAutomation.TestCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@1f554b06]" name="setup" is-config="true" duration-ms="12502" started-at="2020-01-04T14:11:42 EET" finished-at="2020-01-04T14:11:54 EET">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="setup" is-config="true" duration-ms="14065" started-at="2020-02-07T03:25:28 EET" finished-at="2020-02-07T03:25:42 EET">
           <params>
             <param index="0">
               <value>
@@ -18,36 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@1f554b06]" name="LoginTest" duration-ms="3524" started-at="2020-01-04T14:11:54 EET" finished-at="2020-01-04T14:11:58 EET">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="LoginTest" duration-ms="7108" started-at="2020-02-07T03:25:42 EET" finished-at="2020-02-07T03:25:49 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@1f554b06]" name="tearDown" is-config="true" duration-ms="923" started-at="2020-01-04T14:11:58 EET" finished-at="2020-01-04T14:11:59 EET">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="tearDown" is-config="true" duration-ms="882" started-at="2020-02-07T03:25:49 EET" finished-at="2020-02-07T03:25:50 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Web.TestAutomation.TestCases.TC_LoginTest_001 -->
-      <class name="Web.TestAutomation.TestCases.TC_SearchTest_002">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@694e1548]" name="setup" is-config="true" duration-ms="11049" started-at="2020-01-04T14:11:59 EET" finished-at="2020-01-04T14:12:10 EET">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="SearchTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@694e1548]" name="SearchTest" duration-ms="2848" started-at="2020-01-04T14:12:10 EET" finished-at="2020-01-04T14:12:13 EET">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- SearchTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_SearchTest_002@694e1548]" name="tearDown" is-config="true" duration-ms="862" started-at="2020-01-04T14:12:13 EET" finished-at="2020-01-04T14:12:13 EET">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- Web.TestAutomation.TestCases.TC_SearchTest_002 -->
     </test> <!-- Login Test -->
   </suite> <!-- TestAutomationFramework -->
 </testng-results>

@@ -53,3 +53,88 @@
 2020-01-04 20:51:59,023 [main] INFO TestAutomationFramework - URL is obened
 2020-01-04 20:52:05,399 [main] INFO TestAutomationFramework - Login was successful
 2020-01-04 20:52:22,441 [main] INFO TestAutomationFramework - Search was successful
+2020-01-13 21:39:42,587 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:40:31,870 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:43:58,684 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:44:01,789 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:44:02,704 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:44:18,326 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:46:39,212 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:46:42,278 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:46:43,147 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:46:58,505 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:50:10,347 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:50:13,215 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:50:14,188 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:50:29,816 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:51:52,903 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:51:56,041 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:51:56,841 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:52:13,196 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:54:50,718 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:54:53,744 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:54:54,492 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:55:11,087 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 21:57:11,357 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 21:57:14,367 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 21:57:15,022 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 21:57:30,881 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 22:00:01,385 [main] INFO TestAutomationFramework - URL is obened
+2020-01-13 22:00:04,389 [main] INFO TestAutomationFramework - Entered username
+2020-01-13 22:00:05,214 [main] INFO TestAutomationFramework - Entered password
+2020-01-13 22:00:05,485 [main] INFO TestAutomationFramework - Login was successful
+2020-01-13 22:00:20,351 [main] INFO TestAutomationFramework - Entered search text
+2020-01-13 22:00:20,386 [main] INFO TestAutomationFramework - Search was successful
+2020-01-14 20:46:56,656 [main] INFO TestAutomationFramework - URL is obened
+2020-01-14 20:47:03,828 [main] INFO TestAutomationFramework - Entered username
+2020-01-14 20:47:04,691 [main] INFO TestAutomationFramework - Entered password
+2020-01-14 20:47:04,894 [main] INFO TestAutomationFramework - Login was successful
+2020-01-14 20:47:22,019 [main] INFO TestAutomationFramework - Entered search text
+2020-01-14 20:47:22,047 [main] INFO TestAutomationFramework - Search was successful
+2020-01-14 20:57:27,395 [main] INFO TestAutomationFramework - URL is obened
+2020-01-14 20:57:30,504 [main] INFO TestAutomationFramework - Entered username
+2020-01-14 20:57:31,679 [main] INFO TestAutomationFramework - Entered password
+2020-01-14 20:57:31,714 [main] INFO TestAutomationFramework - Login was successful
+2020-01-14 20:57:48,468 [main] INFO TestAutomationFramework - Entered search text
+2020-01-14 20:57:48,500 [main] INFO TestAutomationFramework - Search was successful
+2020-01-14 21:09:52,512 [main] INFO TestAutomationFramework - URL is obened
+2020-01-14 21:09:55,862 [main] INFO TestAutomationFramework - Entered username
+2020-01-14 21:09:56,964 [main] INFO TestAutomationFramework - Entered password
+2020-01-14 21:09:56,994 [main] INFO TestAutomationFramework - Login was successful
+2020-01-14 21:10:12,132 [main] INFO TestAutomationFramework - Entered search text
+2020-01-14 21:10:12,161 [main] INFO TestAutomationFramework - Search was successful
+2020-01-14 21:11:34,896 [main] INFO TestAutomationFramework - URL is obened
+2020-01-14 21:11:37,926 [main] INFO TestAutomationFramework - Entered username
+2020-01-14 21:11:39,129 [main] INFO TestAutomationFramework - Entered password
+2020-01-14 21:11:39,156 [main] INFO TestAutomationFramework - Login was successful
+2020-01-14 21:11:54,234 [main] INFO TestAutomationFramework - Entered search text
+2020-01-14 21:11:54,262 [main] INFO TestAutomationFramework - Search was successful
+2020-01-17 23:20:46,250 [main] INFO TestAutomationFramework - URL is obened
+2020-01-17 23:29:47,365 [main] INFO TestAutomationFramework - URL is obened
+2020-01-17 23:38:47,934 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 21:39:00,103 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 21:50:44,612 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 22:09:17,737 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 22:09:19,333 [main] INFO TestAutomationFramework - Entered username
+2020-02-06 22:09:19,435 [main] INFO TestAutomationFramework - Entered password
+2020-02-06 22:15:26,025 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 22:15:27,650 [main] INFO TestAutomationFramework - Entered username
+2020-02-06 22:15:27,784 [main] INFO TestAutomationFramework - Entered password
+2020-02-06 22:21:50,953 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 22:21:52,566 [main] INFO TestAutomationFramework - Entered username
+2020-02-06 22:21:52,690 [main] INFO TestAutomationFramework - Entered password
+2020-02-06 22:23:36,826 [main] INFO TestAutomationFramework - URL is obened
+2020-02-06 22:23:37,631 [main] INFO TestAutomationFramework - Entered username
+2020-02-06 22:23:37,743 [main] INFO TestAutomationFramework - Entered password
+2020-02-07 03:20:59,405 [main] INFO TestAutomationFramework - URL is obened
+2020-02-07 03:21:43,446 [main] INFO TestAutomationFramework - URL is obened
+2020-02-07 03:21:45,011 [main] INFO TestAutomationFramework - Entered username
+2020-02-07 03:21:49,832 [main] INFO TestAutomationFramework - Entered password
+2020-02-07 03:23:17,414 [main] INFO TestAutomationFramework - URL is obened
+2020-02-07 03:23:17,685 [main] INFO TestAutomationFramework - Entered username
+2020-02-07 03:23:17,821 [main] INFO TestAutomationFramework - Entered password
+2020-02-07 03:23:21,874 [main] INFO TestAutomationFramework - Login was successful
+2020-02-07 03:25:42,320 [main] INFO TestAutomationFramework - URL is obened
+2020-02-07 03:25:42,573 [main] INFO TestAutomationFramework - Entered username
+2020-02-07 03:25:42,686 [main] INFO TestAutomationFramework - Entered password
+2020-02-07 03:25:49,394 [main] INFO TestAutomationFramework - Login was successful

@@ -18,41 +18,37 @@ public class HomePage
 		PageFactory.initElements(rdriver, this);
 	}
 	 
-	 @FindBy(id="gb_70")
+	 @FindBy(xpath="//input[@class='button-1 login-button']")
 	 WebElement loginButton;
 	 
-	 @FindBy(id="identifierId")
+	 @FindBy(id="Email")
 	 WebElement txtUsername;
 	 
 	 
-	 @FindBy(name="password")
+	 @FindBy(id="Password")
 	 WebElement txtPassword;
 	 
 	 
-	 @FindBy(name="q")
-	 WebElement searchBox;
 	 
-	 public void clickLogin()
-	 {
-	 loginButton.click();
-	 }
+	 
+	 
 	 
 	 public void setUsername(String name)
 	 {
-		 txtUsername.sendKeys(name,Keys.ENTER);
+		 txtUsername.sendKeys(name);
 	 }
 	 
 	
 	 
 	 public void setPassword(String password)
 	 {
-		txtPassword.sendKeys(password,Keys.ENTER);
+		txtPassword.sendKeys(password);
 	 }
 	 
-	 public void search()
-		{
-		 searchBox.sendKeys("mohamed salah",Keys.ENTER);
-		}
+	 public void clickLogin()
+	 {
+	 loginButton.click();
+	 }
 	 
 	  
 	 

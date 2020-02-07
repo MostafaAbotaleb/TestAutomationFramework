@@ -24,7 +24,6 @@ public class TC_LoginTest_001 extends BaseClass
 		
 		HomePage hp=new HomePage(driver);
 		
-	    hp.clickLogin();
 	    
 	    hp.setUsername(username);
 	    logger.info("Entered username");
@@ -32,8 +31,10 @@ public class TC_LoginTest_001 extends BaseClass
 	    hp.setPassword(password);
 	    logger.info("Entered password");
 	    
+	    hp.clickLogin();
+	    
 	   
-	    if(driver.getTitle().equals("Anmelden – Google Konten"))
+	    if(driver.getTitle().equals("Dashboard / nopCommerce administration"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Login was successful");
