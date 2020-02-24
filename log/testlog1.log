@@ -138,3 +138,7 @@
 2020-02-07 03:25:42,573 [main] INFO TestAutomationFramework - Entered username
 2020-02-07 03:25:42,686 [main] INFO TestAutomationFramework - Entered password
 2020-02-07 03:25:49,394 [main] INFO TestAutomationFramework - Login was successful
+2020-02-24 13:54:05,363 [main] INFO TestAutomationFramework - URL is obened
+2020-02-24 13:54:06,027 [main] INFO TestAutomationFramework - Entered username
+2020-02-24 13:54:06,130 [main] INFO TestAutomationFramework - Entered password
+2020-02-24 13:54:10,623 [main] INFO TestAutomationFramework - Login was successful

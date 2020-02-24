@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="TestAutomationFramework" duration-ms="22319" started-at="2020-02-07T03:25:27 EET" finished-at="2020-02-07T03:25:50 EET">
+  <suite name="TestAutomationFramework" duration-ms="21077" started-at="2020-02-24T13:53:50 EET" finished-at="2020-02-24T13:54:11 EET">
     <groups>
     </groups>
-    <test name="Login Test" duration-ms="22319" started-at="2020-02-07T03:25:27 EET" finished-at="2020-02-07T03:25:50 EET">
+    <test name="Login Test" duration-ms="21077" started-at="2020-02-24T13:53:50 EET" finished-at="2020-02-24T13:54:11 EET">
       <class name="Web.TestAutomation.TestCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="setup" is-config="true" duration-ms="14065" started-at="2020-02-07T03:25:28 EET" finished-at="2020-02-07T03:25:42 EET">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="setup" is-config="true" duration-ms="14197" started-at="2020-02-24T13:53:51 EET" finished-at="2020-02-24T13:54:05 EET">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="LoginTest" duration-ms="7108" started-at="2020-02-07T03:25:42 EET" finished-at="2020-02-07T03:25:49 EET">
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="LoginTest" duration-ms="5315" started-at="2020-02-24T13:54:05 EET" finished-at="2020-02-24T13:54:10 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="tearDown" is-config="true" duration-ms="882" started-at="2020-02-07T03:25:49 EET" finished-at="2020-02-07T03:25:50 EET">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Web.TestAutomation.TestCases.TC_LoginTest_001@614ddd49]" name="tearDown" is-config="true" duration-ms="1222" started-at="2020-02-24T13:54:10 EET" finished-at="2020-02-24T13:54:11 EET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
